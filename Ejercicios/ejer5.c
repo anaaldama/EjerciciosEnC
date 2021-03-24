@@ -14,10 +14,10 @@ int main(){
 		printf("Ingresa una letra:");
 		scanf("%s",&letra);
 
-		
 		if(letra=='C'){
 			printf("gracias \n");
 			printf("\n");
+			repite=1;
 		}else{
 			printf("letra incorrecta \n");
 		}
