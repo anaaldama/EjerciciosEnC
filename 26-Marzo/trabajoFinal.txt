@@ -1,0 +1,21 @@
+REGISTRO DE CALIFICACIONES 
+Maestro: Ana Aldama 
+Materia: Programacion Estructurada 
+
+Nombre del Alumno [1]:David 
+Calificacion [1]: 10.00 
+Calificacion [2]: 10.00 
+Calificacion [3]: 10.00 
+Calificacion [4]: 10.00 
+Calificacion [5]: 10.00 
+Promedio: 10.00 
+Mensaje: Felicidades 
+
+Nombre del Alumno [2]:Paula 
+Calificacion [1]: 8.00 
+Calificacion [2]: 6.00 
+Calificacion [3]: 7.00 
+Calificacion [4]: 6.00 
+Calificacion [5]: 8.00 
+Promedio: 7.00 
+Mensaje: Aprobado 
